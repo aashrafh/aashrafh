@@ -9,7 +9,7 @@
 <a href="https://twitter.com/aashrafh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aashrafh" height="30" width="30" /></a>
 <a href="https://fb.com/aashrafh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aashrafh" height="30" width="30" /></a>
 </p>
-I'm a software engineer who is dedicated learner, resourceful, and have well-developed coding and problem-solving skills combined with a flexible mind, strong organizational skills, and can work independently or as part of a team. Always eager to know and work more with a strong passion for open-source. 
+I'm a software engineer and a computer engineering student who is dedicated learner, resourceful, and have well-developed coding and problem-solving skills combined with a flexible mind, strong organizational skills, and can work independently or as part of a team. Always eager to know and work more with a strong passion for open-source. 
 
 # Skills
 <p align="left">
